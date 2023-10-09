@@ -1,24 +1,8 @@
-# README
+# payjp_app
+* 購入をもっとしやすく〜クレジットカード決済機能を持ったミニアプリを作成しよう〜
+* PAY.JPのサービスで、クレジットカードを登録し、登録したカードで商品購入できるミニアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Application Images
+* ユーザーログイン後、クレジットカードを登録し、登録したカードで商品購入
+[![Image from Gyazo](https://i.gyazo.com/8106addbbe6e8ea1ab69b54cd7e63dff.gif)](https://gyazo.com/8106addbbe6e8ea1ab69b54cd7e63dff)
